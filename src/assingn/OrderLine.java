@@ -39,6 +39,5 @@ public class OrderLine {
 	
 	public String getDescription() {
 		return "" + quantity + " " + item.getDescription();
-	}
-	
+	}	
 }
